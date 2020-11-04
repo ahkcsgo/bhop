@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/ahkcsgo/bhop">
-    AutoHotkey (AHK) CS:GO fake bunny hop
+    AutoHotkey (AHK) CS:GO Fake bunny hop
   </a>
 </h1>
 
